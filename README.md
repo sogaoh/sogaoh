@@ -1,14 +1,16 @@
-<table  border="0">
-<td width=58%>  
+<table>
+<tr>  
+<td width=52%>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sogaoh&count_private=true&show_icons=true" />
 </a>
 </td>  
-<td width=40%>  
+<td width=38%>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogaoh&layout=compact" />
 </a>
 </td>
+</tr>
 </table>  
 
 
